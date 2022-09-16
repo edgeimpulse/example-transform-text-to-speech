@@ -1,0 +1,4 @@
+node_modules/
+out-*/
+set-env.sh
+.ei-block-config

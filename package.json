@@ -1,0 +1,16 @@
+{
+  "name": "transform-text-to-speech",
+  "version": "1.0.0",
+  "description": "TTS using Google Cloud",
+  "main": "tts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Jongboom <jan@edgeimpulse.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "4.0.2",
+    "commander": "4.1.1",
+    "google-gax": "3.5.1"
+  }
+}
