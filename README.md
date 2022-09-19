@@ -59,7 +59,7 @@ This is a transformation block that adds words or short sentences to your Edge I
     export EI_PROJECT_ID=12009
     export EI_PROJECT_API_KEY=ei_...
     export EI_API_ENDPOINT=https://studio.edgeimpulse.com
-    export EI_INGESTION_HOST=https://ingestion.edgeimpulse.com
+    export EI_INGESTION_HOST=edgeimpulse.com
     export GOOGLE_CLOUD_TTS_API_KEY=AI...
     ```
 
